@@ -19,6 +19,7 @@ class Modelo():
         self.vivo=False
         self.Boton_presionado=0
         self.Ventana()
+
   # metodo que dibuja el personaje que se selecciona y lo anima 
     def Dibujar(self):
         self.teclas=pygame.key.get_pressed()
@@ -68,3 +69,5 @@ class Modelo():
 
 if __name__ == "__main__":
     Modelo()
+
+    
