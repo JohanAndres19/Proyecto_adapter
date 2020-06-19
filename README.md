@@ -32,6 +32,7 @@ _Nota: Al instalar algunas versiones de python pueda que no venga con pip (paque
 1. Descargamos el archivo “get-pip.py”en: [https://pip.pypa.io/en/stable/installing/](https://pip.pypa.io/en/stable/installing/).
 
 ![image016](imagenesREADME/image016.gif)
+
 2. En la terminal de windows y en la ruta donde tengamos el archivo anteriormente descargado ejecutamos el siguiente comando
 
        python get-pip.py
@@ -51,15 +52,22 @@ En la terminal de windows ejecutamos el siguiente comando:
             
 ### Manual de usuario:
 El programa tiene 2 personajes (bomberman, caballero):
+
 ![image006](imagenesREADME/image006.jpg)
+
 * **Bomberman.**
 Para acceder a bomberman pulsamos la letra B en el teclado e ingresaremos a la animacion de bomberman, moveremos al personsaje con el boton izquierda y derecha
 ![image001](imagenesREADME/image001.jpg)
+
 ![image002](imagenesREADME/image002.jpg)
+
 ![image005](imagenesREADME/image005.jpg)
+
 * **Preparar.**
 Para acceder a caballero pulsamos la letra D en el teclado e ingresaremos a la animacion de caballero, moveremos al personsaje con el boton izquierda y derecha
+
 ![image003](imagenesREADME/image003.jpg)
+
 ![image004](imagenesREADME/image004.jpg)
 
 _Nota: Para salir de cualquier animacion y volver al menu de seleccion de personajes pulsaremos la tecla escape durante cualquiera de las 2 animaciones._
