@@ -4,7 +4,7 @@
 Se necesita un catalogo de personajes en el que nuestros personajes tengan la posibilidad de realizar movivimientos en 2 direcciones(izquierda,derecha) y que se vea reflejado en pantalla; utilizando el patron adapter.
 
 ### Analisis del problema:
-![DiagaramaAdapter](imagenesREADME/DiagramaAdapter.png)
+![DiagramaAdapter](imagenesREADME/DiagramaAdapter.png)
 Para esta situación utilizaremos el patron abstract factory para guardar nuestro personaje bomberman ,y el patron adapter para añadir el segundo personaje caballero, que fue creado a partir de una interfaz diferente. 
 
 
