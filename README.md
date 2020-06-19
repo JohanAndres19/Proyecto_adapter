@@ -60,15 +60,11 @@ Para acceder a bomberman pulsamos la letra B en el teclado e ingresaremos a la a
 
 ![image001](imagenesREADME/image001.jpg)
 
-![image002](imagenesREADME/image002.jpg)
-
-![image005](imagenesREADME/image005.jpg)
 
 * **Preparar.**
 Para acceder a caballero pulsamos la letra D en el teclado e ingresaremos a la animacion de caballero, moveremos al personsaje con el boton izquierda y derecha
 
 ![image003](imagenesREADME/image003.jpg)
 
-![image004](imagenesREADME/image004.jpg)
 
 _Nota: Para salir de cualquier animacion y volver al menu de seleccion de personajes pulsaremos la tecla escape durante cualquiera de las 2 animaciones._
