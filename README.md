@@ -57,6 +57,7 @@ El programa tiene 2 personajes (bomberman, caballero):
 
 * **Bomberman.**
 Para acceder a bomberman pulsamos la letra B en el teclado e ingresaremos a la animacion de bomberman, moveremos al personsaje con el boton izquierda y derecha
+
 ![image001](imagenesREADME/image001.jpg)
 
 ![image002](imagenesREADME/image002.jpg)
